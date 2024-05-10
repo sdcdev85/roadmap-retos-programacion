@@ -1,0 +1,22 @@
+# https://www.python.org/
+
+# Tipos de sintaxis para comentarios en pyton
+""" es formato para escribir 
+comentarios en varias lineas 
+"""
+
+una_variable = 76  # tipo de variable int (entero)
+
+# En python no existen las constantes
+
+# tipo de datos primitivos en python
+
+var_int= 43
+
+var_float= 4.5
+
+var_str= "texto"
+
+var_bool = False
+
+print("Hola python")
